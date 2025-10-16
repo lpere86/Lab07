@@ -3,6 +3,6 @@
 int main()
 {
     printf("Hello, github world!");
-    printf("Happy friday!")
+    printf("Happy friday everyone!")
     return 0;
 }
